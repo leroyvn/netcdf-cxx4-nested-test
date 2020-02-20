@@ -1,0 +1,3 @@
+[submodule "ext/netcdf-cxx4"]
+	path = ext/netcdf-cxx4
+	url = git@github.com:leroyvn/netcdf-cxx4.git
